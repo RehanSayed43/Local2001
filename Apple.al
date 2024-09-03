@@ -2,7 +2,7 @@ pageextension 50109 MyExtension extends System
 {
     layout
     {
-        // Add changes to page layout here
+        // Add changes to page layout here/kmnknk
     }
 
     actions
